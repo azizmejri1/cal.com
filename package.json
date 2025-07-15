@@ -115,15 +115,18 @@
     "vitest-mock-extended": "^2.0.2"
   },
   "dependencies": {
-    "@daily-co/daily-js": "^0.76.0",
-    "@evyweb/ioctopus": "^1.2.0",
-    "@next/third-parties": "^14.2.5",
-    "@vercel/functions": "^1.4.0",
-    "city-timezones": "^1.2.1",
-    "eslint": "^8.34.0",
-    "p-limit": "^6.2.0",
-    "turbo": "^1.10.1"
-  },
+  "@daily-co/daily-js": "^0.76.0",
+  "@evyweb/ioctopus": "^1.2.0",
+  "@next/third-parties": "^14.2.5",
+  "@vercel/functions": "^1.4.0",
+  "city-timezones": "^1.2.1",
+  "eslint": "^8.34.0",
+  "p-limit": "^6.2.0",
+  "turbo": "^1.10.1",
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "next": "^15.3.3"
+},
   "resolutions": {
     "types-ramda": "0.29.4",
     "@apidevtools/json-schema-ref-parser": "9.0.9",
